@@ -1,0 +1,1 @@
+# cloud-genshin-launcher app package

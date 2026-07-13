@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Build artifacts
+build/
+dist/
+*.pyc
+__pycache__/
+*.egg-info/
+*.egg
+
+# Intermediate files
+logo.iconset/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
